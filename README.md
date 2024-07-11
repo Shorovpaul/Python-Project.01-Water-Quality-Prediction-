@@ -1,6 +1,6 @@
-# Python-Project.01-Water-Quality-Prediction-
+Water-Quality-Prediction-
 
-**Introduction**
+Introduction:
 
 Clean and safe water is essential for human health, agriculture, and the environment. With increasing concerns over water pollution and its impact on ecosystems and public health, the ability to predict water quality parameters becomes crucial for effective management and decision-making.
 
